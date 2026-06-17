@@ -18,14 +18,14 @@
         }
 
         :root {
-            --bg: #0d1b35;
-            --header: #162040;
+            --bg: #050a15;
+            --header: #0f1d38;
             --accent: #f0a500;
             --text: #e8f0ff;
             --muted: #8099cc;
-            --grid: #1e3060;
-            --cell: #132040;
-            --card: #1a2e58;
+            --grid: #374d86;
+            --cell: #0a1428;
+            --card: #0f1e42;
             --radius: 16px;
         }
 
